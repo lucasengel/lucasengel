@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Lucas! 👋
 
-<!--
-**lucasengel/lucasengel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a frontend software developer based in Toronto
 
-Here are some ideas to get you started:
+Most of my projects are on private repos, but I'm making an effort to update this space. If you're hiring, please visit my [website](https://hacke.co/). 🙃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on finishing a bootcamp 
+- 🌱 I’m currently learning React Native 
+- 📫 Reach me at: lucasengel@gmail.com 
+- 😄 Pronouns: he/him 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lucasengel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/lucasengel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucasengel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hacke.co/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/lucasengel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hacke.co)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flickr.svg' alt='flickr' height='40'>](https://www.flickr.com/photos/lucasengel/)  
+
