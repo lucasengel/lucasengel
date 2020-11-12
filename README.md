@@ -1,10 +1,11 @@
 # Hi, I'm Lucas! 👋
 
-## I'm a frontend software developer based in Toronto
+## I'm a frontend developer based in Toronto
 
-Most of my projects are on private repos, but I'm making an effort to update this space. If you're hiring, please visit my [website](https://hacke.co/). 🙃
+Working on getting more projects up here. If you're hiring, please visit my [website](https://hacke.co/). 🙃
 
-- 🔭 I’m currently working on finishing a bootcamp 
+- 🔎 Open to job opportunities
+- 🏅 Just finished a bootcamp 
 - 🌱 I’m currently learning React Native 
 - 📫 Reach me at: lucasengel@gmail.com 
 - 😄 Pronouns: he/him 
